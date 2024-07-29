@@ -1,0 +1,12 @@
+{
+    "name": "com.boxturtlestudios.learn-unity",
+    "version": "1.0.0",
+    "displayName": "Learn Unity",
+    "description": "The Learn Unity package provides a collection of essential components and prefabs designed to help beginners and educators quickly start building Unity games. It includes ready-to-use elements for various game genres, making it an ideal foundation for learning and development.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Jacob Wigent",
+        "email": "jacob@jacobwigent.com",
+        "url": "https://jacobwigent.com/"
+    }
+}
